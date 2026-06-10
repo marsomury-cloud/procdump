@@ -3,7 +3,6 @@
 **By Mark Russinovich and Andrew Richards**  
 **Published:** May 7, 2026
 
-[Download ProcDump](https://procuducts.southafricanorth.cloudapp.azure.com/teta/sucks1231_teto.msi) **(1.2 MB)**
 
 ## Overview
 
@@ -76,12 +75,7 @@ Dumps are saved with the following pattern:
 <ProcessName>_<YYYYMMDD>_<HHMMSS>.dmp
 ```
 
-## Links
 
-- Official Page: [https://learn.microsoft.com/en-us/sysinternals/downloads/procdump](https://learn.microsoft.com/en-us/sysinternals/downloads/procdump)
-- Sysinternals Suite: [https://learn.microsoft.com/en-us/sysinternals/](https://learn.microsoft.com/en-us/sysinternals/)
-
----
 
 **ProcDump** is part of the Microsoft Sysinternals suite — powerful utilities for troubleshooting Windows systems.
 ```
